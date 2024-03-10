@@ -1,0 +1,4 @@
+server=
+Webhook=
+thread=11
+delay=0.1
